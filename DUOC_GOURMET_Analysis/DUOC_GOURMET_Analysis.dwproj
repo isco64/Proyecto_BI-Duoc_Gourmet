@@ -36,10 +36,6 @@
       <FullPath>Dim Cliente.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim Boleta.dim</Name>
-      <FullPath>Dim Boleta.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Dim Tipo Pago.dim</Name>
       <FullPath>Dim Tipo Pago.dim</FullPath>
     </ProjectItem>

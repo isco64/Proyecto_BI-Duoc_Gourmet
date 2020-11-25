@@ -1,14 +1,14 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="f7a309da-608d-413b-a16b-30adad0bc0d0" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="dd933f77-cfe6-446d-ac8d-65934159c71c" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Dim Garzon</ID>
   <Name>Dim Garzon</Name>
-  <CreatedTimestamp>0001-01-01T03:00:00Z</CreatedTimestamp>
-  <LastSchemaUpdate>0001-01-01T03:00:00Z</LastSchemaUpdate>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
   <Annotations>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3652" scrolltop="-6932" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10795" y="16171" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3652" scrolltop="-9631" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10795" y="21569" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
             </font>
@@ -51,7 +51,7 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>-6932</Value>
+      <Value>-9631</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
@@ -66,51 +66,71 @@
       <Value>100</Value>
     </Annotation>
   </Annotations>
-  <LastProcessed>0001-01-01T03:00:00Z</LastProcessed>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="778c62aa-7dcd-48d5-b83a-ab2cabb7e864">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="1584cdba-be57-4ab1-98ce-dee9dbb1ece4">
     <DataSourceViewID>DUOC Gourmet</DataSourceViewID>
   </Source>
-  <ErrorConfiguration dwd:design-time-name="ef4ef34e-e3cc-478b-a9b9-3b44617481a1">
+  <ErrorConfiguration dwd:design-time-name="c643ff38-89f5-4d8c-bed7-22918e7873b4">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="1a78143d-6eb2-44c5-9a88-f930d6f12e82">
+    <Attribute dwd:design-time-name="cd51f1ef-2dc5-4797-bb00-617096425b98">
       <ID>Id Dim Garzon</ID>
       <Name>Id Dim Garzon</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="39439e30-0e19-413e-bca9-4d2119ff2ecb">
+        <KeyColumn dwd:design-time-name="2e4de011-d403-4727-824e-8519744b5a99">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="ec8a2605-3db7-49b4-aae3-7cf6665754b6">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="390c0b58-5070-45d6-9c34-dc16422233b1">
             <TableID>dbo_DimGarzon</TableID>
             <ColumnID>Id_DimGarzon</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="bba5aca5-7922-4d8f-9418-0e1d81544110">
+        <AttributeRelationship dwd:design-time-name="72cf5185-fedd-4c71-b987-e005e58d939a">
           <AttributeID>Nombre Garzon</AttributeID>
           <Name>Nombre Garzon</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="b960dda6-f291-44f1-9277-31a2be879708">
+          <AttributeID>Rut</AttributeID>
+          <Name>Rut</Name>
         </AttributeRelationship>
       </AttributeRelationships>
       <OrderBy>Key</OrderBy>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="40461aa1-7001-43ea-b6e7-0db9cfd78341">
+    <Attribute dwd:design-time-name="f4213921-a55f-455e-bcd4-426d39c61f91">
       <ID>Nombre Garzon</ID>
       <Name>Nombre Garzon</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="68b2d51e-0203-4b75-a2f5-e4fc6e9a996e">
+        <KeyColumn dwd:design-time-name="27c8c7f0-d083-4f99-ab7f-401990871c25">
           <DataType>WChar</DataType>
           <DataSize>64</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="397d0ea4-b1df-447e-ba33-3f17e03d618e">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="6a89e50f-b159-400b-baed-f91216ec55c4">
             <TableID>dbo_DimGarzon</TableID>
             <ColumnID>nombre_garzon</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="c42697d2-9abf-4743-a715-65e3e43a9f84">
+      <ID>Rut</ID>
+      <Name>Rut</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4e6d9cf6-e8ef-48ce-91bd-80d128c62684">
+          <DataType>WChar</DataType>
+          <DataSize>12</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="7d8b1c84-21c4-40b5-b09e-924f0720ee51">
+            <TableID>dbo_DimGarzon</TableID>
+            <ColumnID>rut</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>

@@ -25,9 +25,6 @@
         <ID>Dim Cliente</ID>
       </Dimension>
       <Dimension>
-        <ID>Dim Boleta</ID>
-      </Dimension>
-      <Dimension>
         <ID>Dim Tipo Pago</ID>
       </Dimension>
       <Dimension>
