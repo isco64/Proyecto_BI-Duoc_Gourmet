@@ -47,7 +47,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>ST3gC++Bch/Ob8ORRWR1O7f8AZA=25-11-2020 1:06:3125-11-2020 1:04:00</TimeStamp>
+        <TimeStamp>bAMnHRMx8b0t1y3oet+Vvqmb6GM=25-11-2020 21:47:3225-11-2020 1:04:00</TimeStamp>
         <ID>
           <String>Dim Garzon</String>
         </ID>
@@ -75,7 +75,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>v+67kdzd5NN3b21rMKzo1UZCXvw=25-11-2020 1:27:5225-11-2020 1:04:006iIciVjBz5zAyZGDqOgNiXcWsqI=25-11-2020 1:04:0025-11-2020 1:04:00</TimeStamp>
+        <TimeStamp>/KB9RoGNuA/W7pUE8m0cox6VsNI=25-11-2020 21:47:3225-11-2020 1:04:006iIciVjBz5zAyZGDqOgNiXcWsqI=25-11-2020 1:04:0025-11-2020 1:04:00</TimeStamp>
         <ID>
           <String>DUOC Gourmet</String>
         </ID>
@@ -92,5 +92,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2020-11-25T04:27:54.556667Z</LastDeployed>
+  <LastDeployed>2020-11-26T00:47:34.33Z</LastDeployed>
 </DeploymentSnapshot>
